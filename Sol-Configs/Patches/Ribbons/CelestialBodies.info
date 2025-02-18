@@ -30,7 +30,7 @@ Earth
 		base prestige = 3000
 	}
 }
-Luna
+Moon
 {
 	gas giant = false
 	FinalFrontier

@@ -47,79 +47,171 @@ Sol-Configs/
                 - Created by ballisticfox
             Venus-ScienceDefs
                 - Adjusted from RSS's ScienceDefs config
+        
+        03_Earth-System/
+            03_Earth/
+                Earth-Clouds.cfg
+                    - Created by ballisticfox for RSS-Reborn
+                Earth-Commnet_Stations.cfg
+                    - Copy from RSS's CommNet_Stations config
+                Earth-Kopernicus.cfg
+                    - Created by ballisticfox
+                Earth-Launchsites.cfg
+                    - Adjusted from RSS's Launchsite configs
+                Earth-Localization.cfg
+                    - Adjusted from RSS's localization
+                Earth-ParallaxScatters.cfg
+                    - Derivative of RSS-Reborn's Earth's configs and Linx's Kerbin configs
+                Earth-Resources
+                    - Adjusted from RSS's ResourceConfigs
+                Earth-ScattererAtmosphere.cfg
+                    - Created by ballisticfox
+                Earth-ScattererOcean.cfg
+                    - Created by ballisticfox
+                Earth-ScienceDefs.cfg
+                    - Adjusted from RSS's ScienceDefs
             
-        03_Earth/
-            Earth-Clouds.cfg
-                - Created by ballisticfox for RSS-Reborn
-            Earth-Commnet_Stations.cfg
-                - Copy from RSS's CommNet_Stations config
-            Earth-Kopernicus.cfg
-                - Created by ballisticfox
-            Earth-Launchsites.cfg
-                - Adjusted from RSS's Launchsite configs
-            Earth-Localization.cfg
-                - Adjusted from RSS's localization
-            Earth-ParallaxScatters.cfg
-                - Derivative of RSS-Reborn's Earth's configs and Linx's Kerbin configs
-            Earth-Resources
-                - Adjusted from RSS's ResourceConfigs
-            Earth-ScattererAtmosphere.cfg
-                - Created by ballisticfox
-            Earth-ScattererOcean.cfg
-                - Created by ballisticfox
-            Earth-ScienceDefs.cfg
-                - Adjusted from RSS's ScienceDefs
+            03-01_Luna/
+                Luna-Kopernicus.cfg
+                    - Derivative of RSS's Moon config
+                Luna-Localization.cfg
+                    - Adjusted from RSS's localization
+                Luna-ParallaxScatters.cfg
+                    - Derivative of Linx's Mun config
+                Luna-ParallaxTerrain.cfg
+                    - Created by ballisticfox for RSS-Reborn
+                Luna-ScienceDefs.cfg
+                    - Adjusted from RSS's ScienceDefs
         
-        03-01_Luna/
-            Luna-Kopernicus.cfg
-                - Derivative of RSS's Moon config
-            Luna-Localization.cfg
-                - Adjusted from RSS's localization
-            Luna-ParallaxScatters.cfg
-                - Derivative of Linx's Mun config
-            Luna-ParallaxTerrain.cfg
-                - Created by ballisticfox for RSS-Reborn
-            Luna-ScienceDefs.cfg
-                - Adjusted from RSS's ScienceDefs
-        
-        04_Mars/
-            Mars-Clouds.cfg
-                - Derivative of blackrack's Duna configs
-            Mars-Kopernicus.cfg
-                - Derivative of RSS's Mars configs
-            Mars-Localization.cfg
-                - Adjusted RSS's localization
-            Mars-ParallaxScatters.cfg
-                - Adjusted from Linx's Duna Scatters
-            Mars-ParallaxTerrain.cfg
-                - Created by ballisticfox for RSS-Reborn
-            Mars-Resources.cfg
-                - Adjusted from RSS's ResourceConfigs
-            Mars-ScattererAtmosphere
-                - Created by ballisticfox
-            Mars-ScienceDefs.cfg
-                - Adjusted from RSS's ScienceDefs 
+        04_Mars-System/
+            04_Mars/
+                Mars-Clouds.cfg
+                    - Derivative of blackrack's Duna configs
+                Mars-Kopernicus.cfg
+                    - Derivative of RSS's Mars configs
+                Mars-Localization.cfg
+                    - Adjusted RSS's localization
+                Mars-ParallaxScatters.cfg
+                    - Adjusted from Linx's Duna Scatters
+                Mars-ParallaxTerrain.cfg
+                    - Created by ballisticfox for RSS-Reborn
+                Mars-Resources.cfg
+                    - Adjusted from RSS's ResourceConfigs
+                Mars-ScattererAtmosphere
+                    - Created by ballisticfox
+                Mars-ScienceDefs.cfg
+                    - Adjusted from RSS's ScienceDefs 
 
-        04-01_Phobos/
-            Phobos-Kopernicus.cfg
-                - Derivative of RSS's Phobos config
-            Phobos-Localization.cfg
-                - Adjusted from RSS's localization
-            Phobos-ParallaxScatters.cfg
-                - Derivative of Linx's Ike configs
-            Phobos-ParallaxTerrain.cfg
-                - Adjusted from Linx's Ike configs
-            Phobos-ScienceDefs.cfg
-                - Adjusted from RSS's ScienceDefs
-        04-02_Deimos/
-            Deimos-Kopernicus.cfg
-                - Derivative of RSS's Deimos config
-            Deimos-Localization.cfg
-                - Adjusted from RSS's Localization
-            Deimos-ParallaxTerrain.cfg
-                - Adjusted from Linx's Ike configs
-            Deimos-ScienceDefs.cfg
-                - Adjusted from RSS's ScienceDefs
+            04-01_Phobos/
+                Phobos-Kopernicus.cfg
+                    - Derivative of RSS's Phobos config
+                Phobos-Localization.cfg
+                    - Adjusted from RSS's localization
+                Phobos-ParallaxScatters.cfg
+                    - Derivative of Linx's Ike configs
+                Phobos-ParallaxTerrain.cfg
+                    - Adjusted from Linx's Ike configs
+                Phobos-ScienceDefs.cfg
+                    - Adjusted from RSS's ScienceDefs
+                    
+            04-02_Deimos/
+                Deimos-Kopernicus.cfg
+                    - Derivative of RSS's Deimos config
+                Deimos-Localization.cfg
+                    - Adjusted from RSS's Localization
+                Deimos-ParallaxTerrain.cfg
+                    - Adjusted from Linx's Ike configs
+                Deimos-ScienceDefs.cfg
+                    - Adjusted from RSS's ScienceDefs
+
+        05_Jupiter-System/
+            05_Jupiter/
+                Jupiter-Clouds.cfg
+                    - Created by ballisticfox, derived from Earth and Venus clouds
+                Jupiter-Kopernicus.cfg
+                    - Adjusted from RSS's Jupiter Configs
+                Jupiter-Lightning.cfg
+                    - Adjusted from Jool's lightning configs
+                Jupiter-Localization.cfg
+                    - Adjusted from RSS's localization configs
+                Jupiter-ParallaxTerrain.cfg
+                    - Adjusted from Vall's parallax configs
+                Jupiter-ScattererAtmosphere.cfg
+                    - Created by ballisticfox
+                Jupiter-ScienceDefs.cfg
+                    - Adjusted from RSS
+
+            05-01_Io/
+                Io-Kopernicus.cfg
+                    - Derived from RSS-Origin's and RSS's Io
+                Io-Localization.cfg
+                    - Adjusted from RSS's localization
+                Io-ParallaxScatters.cfg
+                    - Dervied from a mix of Pol's and Moho's scatters
+                Io-ParallaxTerrain.cfg
+                    - Adjusted from Pol's parallax terrain
+                Io-ScienceDefs.cfg
+                    - Adjusted from RSS's ScienceDefs
+
+            05-02_Europa/
+                Europa-Kopernicus.cfg
+                    - Derived from RSS-Origin's and RSS's Europa
+                Europa-Localization.cfg
+                    - Adjusted from RSS's localization
+                Europa-ParallaxScatters.cfg
+                    - Dervied from Vall's scatters
+                Europa-ParallaxTerrain.cfg
+                    - Adjusted from Vall's parallax terrain
+                Europa-ScienceDefs.cfg
+                    - Adjusted from RSS's ScienceDefs
+
+            05-03_Ganymede/
+                Ganymede-Kopernicus.cfg
+                    - Derived from RSS-Origin's and RSS's configs
+                Ganymede-Localization.cfg
+                    - Adjusted from RSS's localization
+                Ganymede-ParallaxScatters.cfg
+                    - Dervied from Tylo's scatters
+                Ganymede-ParallaxTerrain.cfg
+                    - Adjusted from Tylo's parallax terrain
+                Ganymede-ScienceDefs.cfg
+                    - Adjusted from RSS's ScienceDefs
+
+            05-04_Callisto/
+                Callisto-Kopernicus.cfg
+                    - Derived from RSS-Origin's and RSS's configs
+                Callisto-Localization.cfg
+                    - Adjusted from RSS's localization
+                Callisto-ParallaxScatters.cfg
+                    - Dervied from Tylo's scatters
+                Callisto-ParallaxTerrain.cfg
+                    - Adjusted from Bop's parallax terrain
+                Callisto-ScienceDefs.cfg
+                    - Adjusted from RSS's ScienceDefs
+                    
+            05-05_Amalthea/
+                Amalthea-Kopernicus.cfg
+                    - Derived from RSS-Origin's configs
+                Amalthea-Localization.cfg
+                    - Adjusted from RSS's localization
+                Amalthea-ParallaxScatters.cfg
+                    - Dervied from Gilly's scatters
+                Amalthea-ParallaxTerrain.cfg
+                    - Adjusted from Bop's parallax terrain
+                Amalthea-ScienceDefs.cfg
+                    - Adjusted from RSS's ScienceDefs
+
+            05-14_Thebe/
+                Thebe-Kopernicus.cfg
+                    - Derived from RSS-Origin's configs
+                Thebe-Localization.cfg
+                    - Adjusted from RSS's localization
+                Thebe-ParallaxScatters.cfg
+                    - Dervied from Gilly's scatters
+                Thebe-ParallaxTerrain.cfg
+                    - Adjusted from Bop's parallax terrain
+                Thebe-ScienceDefs.cfg
+                    - Adjusted from RSS's ScienceDefs
 
         00_Sol-Kopernicus.cfg
             - Adjusted from RSS's Sun config
@@ -137,6 +229,9 @@ Sol-Configs/
         CommNet/
             *.cfg
                 - All Configs copied from RSS
+        Firefly/
+            *.cfg
+                - All Configs copied and adjusted from Firefly
         Physics/
             FARAtmospheres.cfg
                 - Adjusted from RSS's FAR configs
@@ -166,8 +261,8 @@ Sol-Configs/
             - Copied from RSS
     
     Plugins/
-        RealSolarSystem.dll
-            - Derivative of RSS
+        AdvancedPQSTools.dll
+            - Derivative of RSS, source found here: https://github.com/CharonSSS/AdvancedPQSTools
 
     Rescale/
         */
@@ -175,11 +270,15 @@ Sol-Configs/
         *.cfg
         - Created by ballisticfox
     
+    Shaders.
+        *.unity3d
+        - Hapke parallax shading, created by ballisticfox derived from Linx's parallaxscaled shaders
+
     Skybox
         */
-        - Copied from RSS-Origins
+        - Copied from RSS-Origin
         Skybox.cfg
-        - Adjusted from RSS-Origins
+        - Adjusted from RSS-Origin
     
     Sol-Configuration.cfg
         - Created by ballisticfox, idea from KSRSS
@@ -188,6 +287,8 @@ Sol-Configs/
     Sol-KopernicusSettings.cfg
         - Derivative of RSS's KopernicusSettings config
     Sol-ScattererSettings.cfg
+        - Created by ballisticfox
+    Sol-ShaderBank.cfg
         - Created by ballisticfox
 
 Sol-Textures/
@@ -363,7 +464,7 @@ Sol-Textures/
                     - Created by ballisticfox using Phobos_Height and Linx's exporter tool
                 Phobos_Scatter.dds
                     - Created by ballisticfox using https://www.aanda.org/articles/aa/full_html/2024/06/aa49220-24/aa49220-24.html
-                Phobos_Surge
+                Phobos_Surge.dds
                     - Created by ballisticfox using https://www.aanda.org/articles/aa/full_html/2024/06/aa49220-24/aa49220-24.html
         
         04-02_Deimos/
@@ -384,3 +485,130 @@ Sol-Textures/
                      - Created by ballisticfox using https://www.sciencedirect.com/science/article/pii/S0019103596901773
                 Deimos_Surge.dds
                      - Created by ballisticfox using https://www.sciencedirect.com/science/article/pii/S0019103596901773
+
+        05_Jupiter/
+            Kopernicus/
+                Jupiter_Atmo.dds
+                    - Created by ballisticfox
+                Jupiter_Biomes.truecolor
+                    - Adjusted from RSS
+                Jupiter_Clouds.dds
+                    - Copied/Rotated version of Jupiter_Color
+                Jupiter_Color.dds
+                    - Colormap derived from https://www.planetary.org/articles/0514-juno-meets-cassini-a-new, custom poles and inverse flattening performed by Cylindrical Texture Tools by Askaniy
+                Jupiter_Height.dds
+                    - Created by ballisticfox
+                Jupiter_Icon.png
+                    - Copied from RSS-Origin
+                Jupiter_Normal.dds
+                    - Created by ballisticfox
+                Jupiter_RingsUnlitSide.png
+                    - Copied from RSS-Origin
+                Jupiter_Scatter.dds
+                    - Created by ballisticfox
+                Jupiter_Surge.dds
+                    - Created by ballisticfox
+
+        05-01_Io/
+            Kopernicus/
+                Io_Biome.truecolor
+                    - Adjusted from RSS
+                Io_Color.dds
+                    - Created by ballisticfox, derived from https://astrogeology.usgs.gov/search/map/io_galileo_ssi_voyager_color_merged_global_mosaic_1km
+                Io_Emissive.dds
+                    - Adjusted from RSS-Origin
+                Io_Height.dds
+                    - Derived from RSS-Origin
+                Io_Icon.png
+                    - Copied from RSS-Origin
+                Io_Normal.dds
+                    - Generated off of Io_Height.dds
+                Io_Scatter.dds
+                    - Created by ballisticfox, https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2000JE001350
+                Io_Surge.dds
+                    - Created by ballisticfox, https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2000JE001350
+
+        05-02_Europa/
+            Kopernicus/
+                Europa_Biome.truecolor
+                    - Adjusted from RSS
+                Europa_Color.dds
+                    - Created by ballisticfox
+                Europa_Height.dds
+                    - Created by ballisticfox
+                Europa_Icon.png
+                    - Copied from RSS-Origin
+                Europa_Normal.dds
+                    - Created off of Europa_Height.dds
+                Europa_Scatter.dds
+                    - Created by ballisticfox, 
+                Europa_Surge.dds
+                    - Created by ballisticfox, 
+                
+        05-03_Ganymede/
+            Kopernicus/
+                Ganymede_Biome.truecolor
+                    - Adjusted from RSS
+                Ganymede_Color.dds
+                    - Created by ballisticfox
+                Ganymede_Height.dds
+                    - Adjusted from RSS-Origin
+                Ganymede_Icon.png
+                    - Copied from RSS-Origin
+                Ganymede_Normal.dds
+                    - Created off of Ganymede_Height.dds
+                Ganymede_Scatter.dds
+                    - Created by ballisticfox, 
+                Ganymede_Surge.dds
+                    - Created by ballisticfox, 
+
+        05-04_Callisto/
+            Kopernicus/
+                Callisto_Biome.truecolor
+                    - Adjusted from RSS
+                Callisto_Color.dds
+                    - Created by ballisticfox
+                Callisto_Height.dds
+                    - Adjusted from RSS-Origin
+                Callisto_Icon.png
+                    - Copied from RSS-Origin
+                Callisto_Normal.dds
+                    - Created off of Callisto_Height.dds
+                Callisto_Scatter.dds
+                    - Created by ballisticfox, 
+                Callisto_Surge.dds
+                    - Created by ballisticfox, 
+                
+        05-05_Amalthea/
+            Kopernicus/
+                Amalthea_Biome.dds
+                    - Copied from RSS-Origin
+                Amalthea_Color.dds
+                    - Created by ballisticfox
+                Amalthea_Height.dds
+                    - Copied from RSS-Origin
+                Amalthea_Icon.png
+                    - Copied from RSS-Origin
+                Amalthea_Normal.dds
+                    - Copied from RSS-Origin
+                Amalthea_Scatter.dds
+                    - Copied from Phobos_Scatter.dds
+                Amalthea_Surge.dds
+                    - Copied from Phobos_Surge.dds
+                
+        05-14_Thebe/
+            Kopernicus/
+                Thebe_Biome.dds
+                    - Copied from RSS-Origin
+                Thebe_Color.dds
+                    - Created by ballisticfox
+                Thebe_Height.dds
+                    - Copied from RSS-Origin
+                Thebe_Icon.png
+                    - Copied from RSS-Origin
+                Thebe_Normal.dds
+                    - Copied from RSS-Origin
+                Thebe_Scatter.dds
+                    - Copied from Phobos_Scatter.dds
+                Thebe_Surge.dds
+                    - Copied from Phobos_Surge.dds

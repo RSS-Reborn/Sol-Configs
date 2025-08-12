@@ -6,13 +6,13 @@ For references, I've laid out all credits below:
 
 All configs developed by ballisticfox are under: CC-BY-NC-SA
 RealSolarSystem (RSS) is listed under: CC-BY-NC-SA
-RSS-Origin is listed under: CC-BY-NC-SA but used with expressed permission from Charon_S
+RSS-Origin is listed under: CC-BY-NC-SA and used with expressed permission from Charon_S
 EVO is listed under CC BY-NC-SA
 PRVE is listed under CC-BY-NC-SA
 
 Terms:
 Copy - Direct copy
-Adjusted - Direct copy, but with some minor values swapped to fit needs
+Adjusted/Adapted - Direct copy, but with some minor values swapped to fit needs
 Derivative - Parts have been copied, but the work is considered unique
 Created - The work was not based on any previous work
 
@@ -213,8 +213,188 @@ Sol-Configs/
                 Thebe-ScienceDefs.cfg
                     - Adjusted from RSS's ScienceDefs
 
+        06_Saturn-System/
+            06_Saturn/
+                Saturn-Kopernicus.cfg
+                    - Derived from RSS-Origin's and RSS's configs, rings from Charon_S JSUN rings pack.
+                Saturn-Localization.cfg
+                    - Adjusted from RSS's localization
+                Saturn-ParallaxTerrain.cfg
+                    - Adjusted from Linx's Vall configs
+
+            06-01_Mimas/
+                Mimas-Kopernicus.cfg
+                    - Derived from RSS-Origin's and RSS's configs
+                Mimas-Localization.cfg
+                    - Adjusted from RSS's localization
+                Mimas-ParallaxScatters.cfg
+                    - Adjusted from Linx's Mun configs
+                Mimas-ParallaxTerrain.cfg
+                    - Adjusted from ballisticfox's luna configs
+
+            06-02_Enceladus/
+                Enceladus-Kopernicus.cfg
+                    - Derived from RSS-Origin's and RSS's configs
+                Enceladus-Localization.cfg
+                    - Adjusted from RSS's localization
+                Enceladus-ParallaxScatters.cfg
+                    - Adjusted from Linx's Eeloo configs
+                Enceladus-ParallaxTerrain.cfg
+                    - Adjusted from Linx's Eeloo configs
+
+            06-03_Tethys/
+                Tethys-Kopernicus.cfg
+                    - Derived from RSS-Origin's and RSS's configs
+                Tethys-Localization.cfg
+                    - Adjusted from RSS's localization
+                Tethys-ParallaxScatters.cfg
+                    - Adjusted from Linx's Mun configs
+                Tethys-ParallaxTerrain.cfg
+                    - Adjusted from Linx's Eeloo configs
+
+            06-04_Dione/
+                Dione-Kopernicus.cfg
+                    - Derived from RSS-Origin's and RSS's configs
+                Dione-Localization.cfg
+                    - Adjusted from RSS's localization
+                Dione-ParallaxScatters.cfg
+                    - Adjusted from Linx's Dres configs
+                Dione-ParallaxTerrain.cfg
+                    - Adjusted from Linx's Eeloo configs
+
+            06-05_Rhea/
+                Rhea-Kopernicus.cfg
+                    - Derived from RSS-Origin's and RSS's configs
+                Rhea-Localization.cfg
+                    - Adjusted from RSS's localization
+                Rhea-ParallaxScatters.cfg
+                    - Adjusted from Linx's Dres configs
+                Rhea-ParallaxTerrain.cfg
+                    - Adjusted from Linx's Eeloo configs
+
+            06-06_Titan/
+                Titan-Atmosphere.cfg
+                    - Created by ballisticfox
+                Titan-Climate.cfg
+                    - Created by ballisticfox
+                Titan-Clouds.cfg
+                    - Created by ballisticfox
+                Titan-Droplets.cfg
+                    - Created by ballisticfox
+                Titan-Kopernicus.cfg
+                    - Derived from RSS-Origin's and RSS's configs
+                Titan-Localization.cfg
+                    - Adjusted from RSS's localization
+                Titan-Ocean.cfg
+                    - Created by ballisticfox
+                Titan-ParallaxScatters.cfg
+                    - Derived from a combination of Linx's Duna, Gilly and Laythe configs
+                Titan-ParallaxTerrain.cfg
+                    - Adapted from Linx's Duna configs
+                Titan-Rain.cfg
+                    - Created by ballisticfox
+
+            06-07_Hyperion/
+                Hyperion-Kopernicus.cfg
+                    - Adapted from RSS-Origin
+                Hyperion-Localization.cfg
+                    - Adjusted from RSS-Origin's localization
+                Hyperion-ParallaxScatters.cfg
+                    - Adjusted from Linx's Moho configs
+                Hyperion-ParallaxTerrain.cfg
+                    - Adjusted from Linx's Bop's configs
+
+            06-08_Iapetus/
+                Iapetus-Kopernicus.cfg
+                    - Derived from RSS-Origin's and RSS's configs
+                Iapetus-Localization.cfg
+                    - Adjusted from RSS's localization
+                Iapetus-ParallaxScatters.cfg
+                    - Derived from Linx's Eeloo configs
+                Iapetus-ParallaxTerrain.cfg
+                    - Derived from Linx's Eeloo configs
+
+            06-09_Phoebe/
+                Phoebe-Kopernicus.cfg
+                    - Adapted from RSS-Origin
+                Phoebe-Localization.cfg
+                    - Adjusted from RSS-Origin's localization
+                Phoebe-ParallaxScatters.cfg
+                    - Derived from Linx's Mun configs
+                Phoebe-ParallaxTerrain.cfg
+                    - Derived from Linx's Ike configs
+            
+        07_Uranus-System/
+            07_Uranus/
+                Uranus-Kopernicus.cfg
+                    - Derived from RSS-Origin's and RSS's configs
+                Uranus-Localization.cfg
+                    - Adjusted from RSS's localization
+                Uranus-ParallaxTerrain.cfg
+                    - Adapted from Linx's Vall configs
+
+            07-01_Ariel/
+                Ariel-Kopernicus.cfg
+                    - Derived from RSS-Origin's and RSS's configs
+                Ariel-Localization.cfg
+                    - Adjusted from RSS's localization
+                Ariel-ParallaxScatters.cfg
+                    - Derived from Linx's Eeloo configs
+                Ariel-ParallaxTerrain.cfg
+                    - Derived from Linx's Eeloo configs
+
+            07-02_Umbriel/
+                Umbriel-Kopernicus.cfg
+                    - Derived from RSS-Origin's and RSS's configs
+                Umbriel-Localization.cfg
+                    - Adjusted from RSS's localization
+                Umbriel-ParallaxScatters.cfg
+                    - Derived from Linx's Eeloo configs
+                Umbriel-ParallaxTerrain.cfg
+                    - Derived from Linx's Eeloo configs
+
+            07-03_Titania/
+                Titania-Kopernicus.cfg
+                    - Derived from RSS-Origin's and RSS's configs
+                Titania-Localization.cfg
+                    - Adjusted from RSS's localization
+                Titania-ParallaxScatters.cfg
+                    - Derived from Linx's Tylo configs
+                Titania-ParallaxTerrain.cfg
+                    - Derived from Linx's Tylo configs
+
+            07-04_Oberon/
+                Oberon-Kopernicus.cfg
+                    - Derived from RSS-Origin's and RSS's configs
+                Oberon-Localization.cfg
+                    - Adjusted from RSS's localization
+                Oberon-ParallaxScatters.cfg
+                    - Derived from Linx's Tylo configs
+                Oberon-ParallaxTerrain.cfg
+                    - Derived from Linx's Tylo configs
+
+            07-05_Miranda/
+                Miranda-Kopernicus.cfg
+                    - Derived from RSS-Origin's and RSS's configs
+                Miranda-Localization.cfg
+                    - Adjusted from RSS's localization
+                Miranda-ParallaxScatters.cfg
+                    - Derived from Linx's Eeloo configs
+                Miranda-ParallaxTerrain.cfg
+                    - Derived from Linx's Eeloo configs
+
+            07-15_Puck/
+                Puck-Kopernicus.cfg
+                    - Adapted from RSS-Origin
+                Puck-Localization.cfg
+                    - Adjusted from RSS-Origin's localization
+                Puck-ParallaxScatters.cfg
+                    - Derived from Linx's Mun configs
+                Puck-ParallaxTerrain.cfg
+                    - Derived from Linx's Mun configs
+
         00_Sol-Kopernicus.cfg
-            - Adjusted from RSS's Sun config
+            - Derived from RSS's Sun config with light curves made by ballisticfox
         00_Sol-Localization
             - Adjusted from RSS's localization
         00_Sol-Sunflare
@@ -228,10 +408,10 @@ Sol-Configs/
                 - Copied from RSS's RocDefs
         CommNet/
             *.cfg
-                - All Configs copied from RSS
-        Firefly/
+                - All Configs copied or adjusted from RSS
+        Kronometer/
             *.cfg
-                - All Configs copied and adjusted from Firefly
+                - All Configs copied and adjusted from KSRSS
         Physics/
             FARAtmospheres.cfg
                 - Adjusted from RSS's FAR configs
@@ -257,23 +437,17 @@ Sol-Configs/
                 - Copied from RSS
             CelestialBodies.info
                 - Adjusted from RSS
+        EXTRA-*.cfg
+            - Created by by ballisticfox
         *.cfg
             - Copied from RSS
     
-    Plugins/
-        AdvancedPQSTools.dll
-            - Derivative of RSS, source found here: https://github.com/CharonSSS/AdvancedPQSTools
-
     Rescale/
         */
         - Created by ballisticfox
         *.cfg
         - Created by ballisticfox
     
-    Shaders.
-        *.unity3d
-        - Hapke parallax shading, created by ballisticfox derived from Linx's parallaxscaled shaders
-
     Skybox
         */
         - Copied from RSS-Origin
@@ -296,12 +470,24 @@ Sol-Textures/
         */
         - Used with permission from blackrack *DO NOT REDISTRIBUTE*
     PluginData/
+        _Misc/
+            EVE/
+                DetailUVNoise.dds
+                    - From PRVE
+                Noise.png
+                    - Unknown
+            Parallax/
+                zero_influence.dds
+                    - Created by ballisticfox
         00_Sol/
             Kopernicus/
                 Sol_Model.bin
                     - Autogenerated by Kopernicus
                 SolSunspots.dds
                     - Created by ballisticfox
+            Sunflare/
+                *
+                    - From Photoshop lens flare pack
         01_Mercury/
             Kopernicus/
                 Mercury_Biomes.truecolor
@@ -404,10 +590,8 @@ Sol-Textures/
                     - Adapted from RSS
                 Luna_Height.dds
                     - Derived from https://astrogeology.usgs.gov/search/map/moon_lroc_wac_dtm_gld100_118m
-                Luna_Icon.dds
+                Luna_Icon.png
                     - Copied from RSS-Origin
-                Luna_Model.bin
-                    - Autogenerated by Kopernicus
                 Luna_Normal.dds
                     - Generated by Linx's exporter tool and Luna_Height
                 Luna_Scatter.dds
@@ -421,7 +605,15 @@ Sol-Textures/
                     - Created by ballisticfox for RSS-Reborn
         04_Mars/
             EVE/
+                Mars.png
+                    - Created by ballisticfox
                 Mars_Haze.png
+                    - Created by ballisticfox
+                MarsDust.png
+                    - Created by ballisticfox
+                MarsDust-2.png
+                    - Created by ballisticfox
+                MarsDust-3.png
                     - Created by ballisticfox
                 
             Kopernicus/
@@ -434,8 +626,6 @@ Sol-Textures/
                         https://astrogeology.usgs.gov/search/map/mars_mgs_mola_mex_hrsc_blended_dem_global_200m
                 Mars_Icon.png
                     - Copied from RSS-Origin
-                Mars_Model.bin
-                    - Autogenerated by Kopernicus
                 Mars_Normal.dds
                     - Created by ballisticfox using Linx's exporter tool and Mars_Height
                 Mars_Scatter.dds
@@ -458,8 +648,6 @@ Sol-Textures/
                     - Created by ballisticfox using https://link.springer.com/article/10.1186/s40623-023-01814-7
                 Phobos_Icon.png
                     - Copied from RSS-Origin
-                Phobos_Model.bin
-                    - Autogenerated by Kopernicus
                 Phobos_Normal.dds
                     - Created by ballisticfox using Phobos_Height and Linx's exporter tool
                 Phobos_Scatter.dds
@@ -477,8 +665,6 @@ Sol-Textures/
                     - Created by ballisticfox using https://link.springer.com/article/10.1186/s40623-023-01814-7
                 Deimos_Icon.png
                     - Copied from RSS-Origin
-                Deimos_Model.bin
-                    - Autogenerated by Kopernicus
                 Deimos_Normal.dds
                     - Created by ballisticfox using Deimos_Height and Linx's exporter tool
                 Deimos_Scatter.dds
@@ -584,7 +770,7 @@ Sol-Textures/
                 Amalthea_Biome.dds
                     - Copied from RSS-Origin
                 Amalthea_Color.dds
-                    - Created by ballisticfox
+                    - Created by Charon_S
                 Amalthea_Height.dds
                     - Copied from RSS-Origin
                 Amalthea_Icon.png
@@ -601,7 +787,7 @@ Sol-Textures/
                 Thebe_Biome.dds
                     - Copied from RSS-Origin
                 Thebe_Color.dds
-                    - Created by ballisticfox
+                    - Created by Charon_S
                 Thebe_Height.dds
                     - Copied from RSS-Origin
                 Thebe_Icon.png
@@ -612,3 +798,308 @@ Sol-Textures/
                     - Copied from Phobos_Scatter.dds
                 Thebe_Surge.dds
                     - Copied from Phobos_Surge.dds
+        
+        06_Saturn/
+            Kopernicus/
+                Saturn_Biomes.dds
+                    - Copied from RSS-Origin(?)
+                Saturn_Color.dds
+                    - Copied from RSS-Origin, with Charon_S's permission
+                Saturn_E_G_Rings.png
+                    - Copied from RSS-Origin, with Charon_S's permission
+                Saturn_Height.dds
+                    - Created by ballisticfox in blender using the triaxial ellipsoid
+                Saturn_Icon.png
+                    - Copied from RSS-Origin
+                Saturn_Normal.dds
+                    - Created by ballisticfox from Saturn_Color
+                Saturn_RingsBackScattered.png
+                    - Created by Charon_S (presumably from PDS Rings node)
+                Saturn_RingsUnlitSide.png
+                    - Created by Charon_S (presumably from PDS Rings node)
+                Saturn_Scatter.dds
+                    - Created by ballisticfox, empty hapke map
+                Saturn_Surge.dds
+                    - Created by ballisticfox, empty hapke map
+                Saturn_Transparent.png
+                    - Created by Charon_S
+
+        06-01_Mimas/
+            Kopernicus/
+                Mimas_Biomes.dds
+                    - Copied from RSS-Origin(?)
+                Mimas_Color.dds
+                    - Derived from Space Engine
+                Mimas_Height.dds
+                    - Derived from Space Engine with oblateness baked
+                Mimas_Icon.png
+                    - Created by Charon_S
+                Mimas_Normal.dds
+                    - Created by ballisticfox in Linx's exporter
+                Mimas_Scatter.dds
+                    - Created by Charon_S
+                Mimas_Surge.dds
+                    - Created by Charon_S
+
+        06-02_Enceladus/
+            Kopernicus/
+                Enceladus_Biomes.dds
+                    - Copied from RSS-Origin(?)
+                Enceladus_Color.dds
+                    - Derived from [https://astrogeology.usgs.gov/search/map/enceladus-cassini-global-mosaic-100m-schenk#open]
+                Enceladus_Height.dds
+                    - Derived from [https://astrogeology.usgs.gov/search/map/enceladus-cassini-global-dem-200m-schenk]
+                Enceladus_Icon.png
+                    - Created by Charon_S
+                Enceladus_Normal.dds
+                    - Created by ballisticfox in Linx's exporter
+                Enceladus_Scatter.dds
+                    - Created by ballisticfox
+                Enceladus_Surge.dds
+                    - Created by ballisticfox
+
+        06-03_Tethys/
+            Kopernicus/
+                Tethys_Biomes.dds
+                    - Copied from RSS-Origin
+                Tethys_Color.dds
+                    - [Citation]
+                Tethys_Height.dds
+                    - Derived from Space Engine with oblateness baked
+                Tethys_Icon.png
+                    - Created by Charon_S
+                Tethys_Normal.dds
+                    - Created by ballisticfox in Linx's exporter
+                Tethys_Scatter.dds
+                    - Created by Charon_S
+                Tethys_Surge.dds
+                    - Created by Charon_S
+        06-04_Dione/
+            Kopernicus/
+                Dione_Biomes.dds
+                    - Copied from RSS-Origin
+                Dione_Color.dds
+                    - [Citation]
+                Dione_Height.dds
+                    - Derived from Space Engine with oblateness baked
+                Dione_Icon.png
+                    - Created by Charon_S
+                Dione_Normal.dds
+                    - Created by ballisticfox in Linx's exporter
+                Dione_Scatter.dds
+                    - Created by Charon_S
+                Dione_Surge.dds
+                    - Created by Charon_S
+        06-05_Rhea/
+            Kopernicus/
+                Rhea_Biomes.dds
+                    - Copied from RSS-Origin
+                Rhea_Color.dds
+                    - [Citation]
+                Rhea_Height.dds
+                    - Derived from Space Engine with oblateness baked
+                Rhea_Icon.png
+                    - Created by Charon_S
+                Rhea_Normal.dds
+                    - Created by ballisticfox in Linx's exporter
+                Rhea_Scatter.dds
+                    - Created by Charon_S
+                Rhea_Surge.dds
+                    - Created by Charon_S
+
+        06-06_Titan/
+            EVE/
+                Titan_Clouds.png
+                    - Created by ballisticfox
+                TitanPolarHood.png
+                    - Created by ballisticfox
+                TitanScattered.png
+                    - Created by VaNnadin
+                TitanTholins.png
+                    - Created by ballisticfox
+            Kopernicus/
+                Titan_Biomes.dds
+                    - Copied from RSS-Origin
+                Titan_Color.dds
+                    - Created by ballisticfox, sourced from Titan Trek
+                Titan_Height.dds
+                    - Created by ballisticfox
+                Titan_Icon.png
+                    - Created by Charon_S
+                Titan_Normal.dds
+                    - Created by ballisticfox in Linx's exporter
+                Titan_Scatter.dds
+                    - Created by ballisticfox
+                Titan_Surge.dds
+                    - Created by ballisticfox
+
+        06-07_Hyperion/
+            Kopernicus/
+                Hyperion_Biome.dds
+                    - Copied from RSS-Origin
+                Hyperion_Color.dds
+                    - [https://www.sciencedirect.com/science/article/abs/pii/S0019103524005001]
+                Hyperion_Height.dds
+                    - [https://www.sciencedirect.com/science/article/abs/pii/S0019103524005001]
+                Hyperion_Icon.png
+                    - Created by Charon_S
+                Hyperion_Normal.dds
+                    - Created by ballisticfox in Linx's exporter
+
+        06-08_Iapetus/
+            Kopernicus/
+                Iapetus_Biomes.dds
+                    - Copied from RSS-Origin
+                Iapetus_Color.dds
+                    - Derived from Space Engine
+                Iapetus_Height.dds
+                    - Derived from Space Engine, oblatness baked by ballisticfox
+                Iapetus_Icon.png
+                    - Created by Charon_S
+                Iapetus_Normal.dds
+                    - Created by ballisticfox in Linx's exporter
+                Iapetus_Scatter.dds
+                    - Created by ballisticfox
+                Iapetus_Surge.dds
+                    - Created by ballisticfox
+
+        06-09_Phoebe/
+            Kopernicus/
+                Phoebe_Biome.dds
+                    - Copied from RSS-Origin
+                Phoebe_Color.dds
+                    - Copied from RSS-Origin
+                Phoebe_Height.dds
+                    - Copied from RSS-Origin
+                Phoebe_Icon.png
+                    - Copied from RSS-Origin
+                Phoebe_Normal.dds
+                    - Created by ballisticfox
+                Phoebe_Scatter.dds
+                    - Created by ballisticfox
+                Phoebe_Surge.dds
+                    - Created by ballisticfox
+
+        07_Uranus/
+            Kopernicus/
+                Uranus_Color.dds
+                    - Created by ballisticfox
+                Uranus_Height.dds
+                    - Created by ballisticfox
+                Uranus_Icon.png
+                    - Copied from RSS-Origin
+                Uranus_Normal.dds
+                    - Created by ballisticfox
+                Uranus_Rings_Inner_BackScattered.png
+                    - Derived from Charon_S's JSUN
+                Uranus_Rings_Inner_UnlitSide.png
+                    - Derived from Charon_S's JSUN
+                Uranus_Rings_Outer_BackScattered.png
+                    - Derived from Charon_S's JSUN
+                Uranus_Rings_Outer_UnlitSide.png
+                    - Derived from Charon_S's JSUN
+                Uranus_Scatter.dds
+                    - Created by ballisticfox
+                Uranus_Surge.dds
+                    - Created by ballisticfox
+        07-01_Ariel/
+            Kopernicus/
+                Ariel_Biomes.dds
+                    - Copied from RSS-Origin
+                Ariel_Color.dds
+                    - Derived from Snowfall and FarGetaNik's Uranus pack
+                Ariel_Height.dds
+                    - Derived from Snowfall and FarGetaNik's Uranus pack
+                Ariel_Icon.png
+                    - Copied from RSS-Origin
+                Ariel_Normal.dds
+                    - Created by ballisticfox using a custom normal generator
+                Ariel_Scatter.dds
+                    - Created by ballisticfox
+                Ariel_Surge.dds
+                    - Created by ballisticfox
+
+        07-02_Umbriel/
+            Kopernicus/
+                Umbriel_Biomes.dds
+                    - Copied from RSS-Origin
+                Umbriel_Color.dds
+                    - Derived from Snowfall and FarGetaNik's Uranus pack
+                Umbriel_Height.dds
+                    - Derived from Snowfall and FarGetaNik's Uranus pack
+                Umbriel_Icon.png
+                    - Copied from RSS-Origin
+                Umbriel_Normal.dds
+                    - Created by ballisticfox using a custom normal generator
+                Umbriel_Scatter.dds
+                    - Created by ballisticfox
+                Umbriel_Surge.dds
+                    - Created by ballisticfox
+
+        07-03_Titania/
+            Kopernicus/
+                Titania_Biomes.dds
+                    - Copied from RSS-Origin
+                Titania_Color.dds
+                    - Derived from Snowfall and FarGetaNik's Uranus pack
+                Titania_Height.dds
+                    - Derived from Snowfall and FarGetaNik's Uranus pack
+                Titania_Icon.png
+                    - Copied from RSS-Origin
+                Titania_Normal.dds
+                    - Created by ballisticfox using a custom normal generator
+                Titania_Scatter.dds
+                    - Created by ballisticfox
+                Titania_Surge.dds
+                    - Created by ballisticfox
+
+        07-04_Oberon/
+            Kopernicus/
+                Oberon_Biomes.dds
+                    - Copied from RSS-Origin
+                Oberon_Color.dds
+                    - Derived from Snowfall and FarGetaNik's Uranus pack
+                Oberon_Height.dds
+                    - Derived from Snowfall and FarGetaNik's Uranus pack
+                Oberon_Icon.png
+                    - Copied from RSS-Origin
+                Oberon_Normal.dds
+                    - Created by ballisticfox using a custom normal generator
+                Oberon_Scatter.dds
+                    - Created by ballisticfox
+                Oberon_Surge.dds
+                    - Created by ballisticfox
+
+        07-05_Miranda/
+            Kopernicus/
+                Miranda_Biomes.dds
+                    - Copied from RSS-Origin
+                Miranda_Color.dds
+                    - Derived from Snowfall and FarGetaNik's Uranus pack
+                Miranda_Height.dds
+                    - Derived from Snowfall and FarGetaNik's Uranus pack
+                Miranda_Icon.png
+                    - Copied from RSS-Origin
+                Miranda_Normal.dds
+                    - Created by ballisticfox using a custom normal generator
+                Miranda_Scatter.dds
+                    - Created by ballisticfox
+                Miranda_Surge.dds
+                    - Created by ballisticfox
+
+        07-15_Puck/
+            Kopernicus/
+                Puck_Biomes.dds
+                    - Copied from RSS-Origin
+                Puck_Color.dds
+                    - Copied from RSS-Origin
+                Puck_Height.dds
+                    - Copied from RSS-Origin
+                Puck_Icon.png
+                    - Copied from RSS-Origin
+                Puck_Normal.dds
+                    - Copied from RSS-Origin
+                Puck_Scatter.dds
+                    - Created by ballisticfox
+                Puck_Surge.dds
+                    - Created by ballisticfox

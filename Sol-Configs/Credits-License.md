@@ -24,7 +24,7 @@ Sol-Configs/
             Mercury-Localization.cfg
                 - Adjusted from RSS's config
             Mercury-ParallaxScatters.cfg
-                - Adjusted of Linx's Gilly Configs
+                - Adjusted from Linx's Gilly Configs
             Mercury-ParallaxTerrain.cfg
                 - Adjusted from Linx's Mun Configs
             Mercury-ScienceDefs.cfg
@@ -36,9 +36,9 @@ Sol-Configs/
             Venus-Kopernicus.cfg
                 - Derivative of RSS's config with adjustments to orbital information and PQS
             Venus-Localization.cfg
-                - Adjusted of RSS's config
+                - Adjusted from RSS's config
             Venus-ParallaxScatters
-                - Adjusted of Linx's Duna Configs
+                - Adjusted from Linx's Duna Configs
             Venus-ParallaxTerrain
                 - Adjusted from Linx's Eve Configs
             Venus-Resources
@@ -47,7 +47,7 @@ Sol-Configs/
                 - Created by ballisticfox
             Venus-ScienceDefs
                 - Adjusted from RSS's ScienceDefs config
-        
+
         03_Earth-System/
             03_Earth/
                 Earth-Clouds.cfg
@@ -70,7 +70,7 @@ Sol-Configs/
                     - Created by ballisticfox
                 Earth-ScienceDefs.cfg
                     - Adjusted from RSS's ScienceDefs
-            
+
             03-01_Luna/
                 Luna-Kopernicus.cfg
                     - Derivative of RSS's Moon config
@@ -82,7 +82,7 @@ Sol-Configs/
                     - Created by ballisticfox for RSS-Reborn
                 Luna-ScienceDefs.cfg
                     - Adjusted from RSS's ScienceDefs
-        
+
         04_Mars-System/
             04_Mars/
                 Mars-Clouds.cfg
@@ -100,7 +100,7 @@ Sol-Configs/
                 Mars-ScattererAtmosphere
                     - Created by ballisticfox
                 Mars-ScienceDefs.cfg
-                    - Adjusted from RSS's ScienceDefs 
+                    - Adjusted from RSS's ScienceDefs
 
             04-01_Phobos/
                 Phobos-Kopernicus.cfg
@@ -113,7 +113,7 @@ Sol-Configs/
                     - Adjusted from Linx's Ike configs
                 Phobos-ScienceDefs.cfg
                     - Adjusted from RSS's ScienceDefs
-                    
+
             04-02_Deimos/
                 Deimos-Kopernicus.cfg
                     - Derivative of RSS's Deimos config
@@ -188,7 +188,7 @@ Sol-Configs/
                     - Adjusted from Bop's parallax terrain
                 Callisto-ScienceDefs.cfg
                     - Adjusted from RSS's ScienceDefs
-                    
+
             05-05_Amalthea/
                 Amalthea-Kopernicus.cfg
                     - Derived from RSS-Origin's configs
@@ -323,7 +323,7 @@ Sol-Configs/
                     - Derived from Linx's Mun configs
                 Phoebe-ParallaxTerrain.cfg
                     - Derived from Linx's Ike configs
-            
+
         07_Uranus-System/
             07_Uranus/
                 Uranus-Kopernicus.cfg
@@ -399,7 +399,7 @@ Sol-Configs/
             - Adjusted from RSS's localization
         00_Sol-Sunflare
             - Created by ballisticfox
-    
+
     Patches/
         BreakingGround/
             Sol-BreakingGround.cfg
@@ -441,19 +441,19 @@ Sol-Configs/
             - Created by by ballisticfox
         *.cfg
             - Copied from RSS
-    
+
     Rescale/
         */
         - Created by ballisticfox
         *.cfg
         - Created by ballisticfox
-    
+
     Skybox
         */
         - Copied from RSS-Origin
         Skybox.cfg
         - Adjusted from RSS-Origin
-    
+
     Sol-Configuration.cfg
         - Created by ballisticfox, idea from KSRSS
     Sol-EVETextures.cfg
@@ -496,17 +496,17 @@ Sol-Textures/
                     - Created by ballisticfox using:
                         https://astrogeology.usgs.gov/search/map/mercury_messenger_mdis_global_color_mosaic_665m#open
                         https://astrogeology.usgs.gov/search/map/mercury_messenger_mdis_basemap_loi_global_mosaic_166m#open
-                
+
                 Mercury_Height.dds
                     - Created by ballisticfox using:
                         https://astrogeology.usgs.gov/search/map/mercury_messenger_global_dem_665m
 
                 Mercury_Icon.png
                     - Copied from RSS-Origin
-                
+
                 Mercury_Normal
                     - Created by ballisticfox using Linx's exporter tool and Mercury_Height.dds
-                
+
                 Mercury_Scatter.dds
                     - [Citation]
 
@@ -555,14 +555,14 @@ Sol-Textures/
                 EarthTropical
                     *.dds
                         - Created by ballisticfox for RSS-Reborn
-    
+
             Kopernicus/
                 Earth_Color.dds
-                    - Created by ballisticfox using: 
+                    - Created by ballisticfox using:
                         https://visibleearth.nasa.gov/collection/1484/blue-marble
                         https://oceancolor.gsfc.nasa.gov/
                 Earth_Height.dds
-                    - Created by ballisticfox using: 
+                    - Created by ballisticfox using:
                     Global ocean & land terrain models
                     GEBCO Compilation Group (2024) GEBCO 2024 Grid (doi:10.5285/1c44ce99-0a0d-5f4f-e063-7086abc0ea0f)
                 Earth_Icon.png
@@ -615,7 +615,7 @@ Sol-Textures/
                     - Created by ballisticfox
                 MarsDust-3.png
                     - Created by ballisticfox
-                
+
             Kopernicus/
                 Mars_Biomes.truecolor
                     - Adapted from RSS
@@ -629,15 +629,15 @@ Sol-Textures/
                 Mars_Normal.dds
                     - Created by ballisticfox using Linx's exporter tool and Mars_Height
                 Mars_Scatter.dds
-                    - Created by ballisticfox using values derived from: 
+                    - Created by ballisticfox using values derived from:
                         https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/jgre.20119
                 Mars_Surge.dds
-                    - Created by ballisticfox using values derived from: 
+                    - Created by ballisticfox using values derived from:
                         https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/jgre.20119
             Parallax/
                 *.dds
                     - Created by ballisticfox for RSS-Reborn
-        
+
         04-01_Phobos/
             Kopernicus/
                 Phobos_Biomes.truecolor
@@ -654,7 +654,7 @@ Sol-Textures/
                     - Created by ballisticfox using https://www.aanda.org/articles/aa/full_html/2024/06/aa49220-24/aa49220-24.html
                 Phobos_Surge.dds
                     - Created by ballisticfox using https://www.aanda.org/articles/aa/full_html/2024/06/aa49220-24/aa49220-24.html
-        
+
         04-02_Deimos/
             Kopernicus/
                 Deimos_Biomes.truecolor
@@ -727,10 +727,10 @@ Sol-Textures/
                 Europa_Normal.dds
                     - Created off of Europa_Height.dds
                 Europa_Scatter.dds
-                    - Created by ballisticfox, 
+                    - Created by ballisticfox,
                 Europa_Surge.dds
-                    - Created by ballisticfox, 
-                
+                    - Created by ballisticfox,
+
         05-03_Ganymede/
             Kopernicus/
                 Ganymede_Biome.truecolor
@@ -744,9 +744,9 @@ Sol-Textures/
                 Ganymede_Normal.dds
                     - Created off of Ganymede_Height.dds
                 Ganymede_Scatter.dds
-                    - Created by ballisticfox, 
+                    - Created by ballisticfox,
                 Ganymede_Surge.dds
-                    - Created by ballisticfox, 
+                    - Created by ballisticfox,
 
         05-04_Callisto/
             Kopernicus/
@@ -761,10 +761,10 @@ Sol-Textures/
                 Callisto_Normal.dds
                     - Created off of Callisto_Height.dds
                 Callisto_Scatter.dds
-                    - Created by ballisticfox, 
+                    - Created by ballisticfox,
                 Callisto_Surge.dds
-                    - Created by ballisticfox, 
-                
+                    - Created by ballisticfox,
+
         05-05_Amalthea/
             Kopernicus/
                 Amalthea_Biome.dds
@@ -781,7 +781,7 @@ Sol-Textures/
                     - Copied from Phobos_Scatter.dds
                 Amalthea_Surge.dds
                     - Copied from Phobos_Surge.dds
-                
+
         05-14_Thebe/
             Kopernicus/
                 Thebe_Biome.dds
@@ -798,7 +798,7 @@ Sol-Textures/
                     - Copied from Phobos_Scatter.dds
                 Thebe_Surge.dds
                     - Copied from Phobos_Surge.dds
-        
+
         06_Saturn/
             Kopernicus/
                 Saturn_Biomes.dds

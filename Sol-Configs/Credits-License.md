@@ -697,7 +697,7 @@ Sol-Textures/
 
         05-01_Io/
             Kopernicus/
-                Io_Biome.truecolor
+                Io_Biomes.truecolor
                     - Adjusted from RSS
                 Io_Color.dds
                     - Created by ballisticfox, derived from https://astrogeology.usgs.gov/search/map/io_galileo_ssi_voyager_color_merged_global_mosaic_1km
@@ -716,7 +716,7 @@ Sol-Textures/
 
         05-02_Europa/
             Kopernicus/
-                Europa_Biome.truecolor
+                Europa_Biomes.truecolor
                     - Adjusted from RSS
                 Europa_Color.dds
                     - Created by ballisticfox
@@ -733,7 +733,7 @@ Sol-Textures/
 
         05-03_Ganymede/
             Kopernicus/
-                Ganymede_Biome.truecolor
+                Ganymede_Biomes.truecolor
                     - Adjusted from RSS
                 Ganymede_Color.dds
                     - Created by ballisticfox
@@ -750,7 +750,7 @@ Sol-Textures/
 
         05-04_Callisto/
             Kopernicus/
-                Callisto_Biome.truecolor
+                Callisto_Biomes.truecolor
                     - Adjusted from RSS
                 Callisto_Color.dds
                     - Created by ballisticfox
@@ -761,13 +761,13 @@ Sol-Textures/
                 Callisto_Normal.dds
                     - Created off of Callisto_Height.dds
                 Callisto_Scatter.dds
-                    - Created by ballisticfox,
+                    - Created by ballisticfox
                 Callisto_Surge.dds
-                    - Created by ballisticfox,
+                    - Created by ballisticfox
 
         05-05_Amalthea/
             Kopernicus/
-                Amalthea_Biome.dds
+                Amalthea_Biomes.truecolor
                     - Copied from RSS-Origin
                 Amalthea_Color.dds
                     - Created by Charon_S
@@ -784,7 +784,7 @@ Sol-Textures/
 
         05-14_Thebe/
             Kopernicus/
-                Thebe_Biome.dds
+                Thebe_Biomes.truecolor
                     - Copied from RSS-Origin
                 Thebe_Color.dds
                     - Created by Charon_S
@@ -801,7 +801,7 @@ Sol-Textures/
 
         06_Saturn/
             Kopernicus/
-                Saturn_Biomes.dds
+                Saturn_Biomes.truecolor
                     - Copied from RSS-Origin(?)
                 Saturn_Color.dds
                     - Copied from RSS-Origin, with Charon_S's permission
@@ -826,7 +826,7 @@ Sol-Textures/
 
         06-01_Mimas/
             Kopernicus/
-                Mimas_Biomes.dds
+                Mimas_Biomes.truecolor
                     - Copied from RSS-Origin(?)
                 Mimas_Color.dds
                     - Derived from Space Engine
@@ -843,7 +843,7 @@ Sol-Textures/
 
         06-02_Enceladus/
             Kopernicus/
-                Enceladus_Biomes.dds
+                Enceladus_Biomes.truecolor
                     - Copied from RSS-Origin(?)
                 Enceladus_Color.dds
                     - Derived from [https://astrogeology.usgs.gov/search/map/enceladus-cassini-global-mosaic-100m-schenk#open]
@@ -860,7 +860,7 @@ Sol-Textures/
 
         06-03_Tethys/
             Kopernicus/
-                Tethys_Biomes.dds
+                Tethys_Biomes.truecolor
                     - Copied from RSS-Origin
                 Tethys_Color.dds
                     - [Citation]
@@ -876,7 +876,7 @@ Sol-Textures/
                     - Created by Charon_S
         06-04_Dione/
             Kopernicus/
-                Dione_Biomes.dds
+                Dione_Biomes.truecolor
                     - Copied from RSS-Origin
                 Dione_Color.dds
                     - [Citation]
@@ -892,7 +892,7 @@ Sol-Textures/
                     - Created by Charon_S
         06-05_Rhea/
             Kopernicus/
-                Rhea_Biomes.dds
+                Rhea_Biomes.truecolor
                     - Copied from RSS-Origin
                 Rhea_Color.dds
                     - [Citation]
@@ -918,7 +918,7 @@ Sol-Textures/
                 TitanTholins.png
                     - Created by ballisticfox
             Kopernicus/
-                Titan_Biomes.dds
+                Titan_Biomes.truecolor
                     - Copied from RSS-Origin
                 Titan_Color.dds
                     - Created by ballisticfox, sourced from Titan Trek
@@ -935,7 +935,7 @@ Sol-Textures/
 
         06-07_Hyperion/
             Kopernicus/
-                Hyperion_Biome.dds
+                Hyperion_Biomes.truecolor
                     - Copied from RSS-Origin
                 Hyperion_Color.dds
                     - [https://www.sciencedirect.com/science/article/abs/pii/S0019103524005001]
@@ -948,7 +948,7 @@ Sol-Textures/
 
         06-08_Iapetus/
             Kopernicus/
-                Iapetus_Biomes.dds
+                Iapetus_Biomes.truecolor
                     - Copied from RSS-Origin
                 Iapetus_Color.dds
                     - Derived from Space Engine
@@ -965,7 +965,7 @@ Sol-Textures/
 
         06-09_Phoebe/
             Kopernicus/
-                Phoebe_Biome.dds
+                Phoebe_Biomes.truecolor
                     - Copied from RSS-Origin
                 Phoebe_Color.dds
                     - Copied from RSS-Origin
@@ -1004,7 +1004,7 @@ Sol-Textures/
                     - Created by ballisticfox
         07-01_Ariel/
             Kopernicus/
-                Ariel_Biomes.dds
+                Ariel_Biomes.truecolor
                     - Copied from RSS-Origin
                 Ariel_Color.dds
                     - Derived from Snowfall and FarGetaNik's Uranus pack
@@ -1021,7 +1021,7 @@ Sol-Textures/
 
         07-02_Umbriel/
             Kopernicus/
-                Umbriel_Biomes.dds
+                Umbriel_Biomes.truecolor
                     - Copied from RSS-Origin
                 Umbriel_Color.dds
                     - Derived from Snowfall and FarGetaNik's Uranus pack
@@ -1038,7 +1038,7 @@ Sol-Textures/
 
         07-03_Titania/
             Kopernicus/
-                Titania_Biomes.dds
+                Titania_Biomes.truecolor
                     - Copied from RSS-Origin
                 Titania_Color.dds
                     - Derived from Snowfall and FarGetaNik's Uranus pack
@@ -1055,7 +1055,7 @@ Sol-Textures/
 
         07-04_Oberon/
             Kopernicus/
-                Oberon_Biomes.dds
+                Oberon_Biomes.truecolor
                     - Copied from RSS-Origin
                 Oberon_Color.dds
                     - Derived from Snowfall and FarGetaNik's Uranus pack
@@ -1072,7 +1072,7 @@ Sol-Textures/
 
         07-05_Miranda/
             Kopernicus/
-                Miranda_Biomes.dds
+                Miranda_Biomes.truecolor
                     - Copied from RSS-Origin
                 Miranda_Color.dds
                     - Derived from Snowfall and FarGetaNik's Uranus pack
@@ -1089,7 +1089,7 @@ Sol-Textures/
 
         07-15_Puck/
             Kopernicus/
-                Puck_Biomes.dds
+                Puck_Biomes.truecolor
                     - Copied from RSS-Origin
                 Puck_Color.dds
                     - Copied from RSS-Origin
